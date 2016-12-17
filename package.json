@@ -1,0 +1,32 @@
+{
+  "name": "vscode-atom-javascript-snippet",
+  "version": "0.0.1",
+  "description": "⚛ Atom JavaScript for Visual Studio Code 📄",
+  "displayName": "Atom JavaScript Snippet",
+  "publisher": "gluons",
+  "engines": {
+    "vscode": "^0.10.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "galleryBanner": {
+    "color": "#5FB57D",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluons/vscode-atom-javascript-snippet.git"
+  },
+  "keywords": [
+    "atom",
+    "javascript",
+    "snippet"
+  ],
+  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gluons/vscode-atom-javascript-snippet/issues"
+  },
+  "homepage": "https://github.com/gluons/vscode-atom-javascript-snippet"
+}
