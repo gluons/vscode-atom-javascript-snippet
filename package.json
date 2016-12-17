@@ -14,6 +14,26 @@
     "color": "#5FB57D",
     "theme": "dark"
   },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/javascript.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/javascript.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/javascript.json"
+      }
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gluons/vscode-atom-javascript-snippet.git"
