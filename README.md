@@ -1,6 +1,7 @@
 # Atom JavaScript Snippet
 [![license](https://img.shields.io/github/license/gluons/vscode-atom-javascript-snippet.svg?style=flat-square)](https://github.com/gluons/vscode-atom-javascript-snippet/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/gluons/vscode-atom-javascript-snippet.svg?style=flat-square)](https://github.com/gluons/vscode-atom-javascript-snippet/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/gluons.vscode-atom-javascript-snippet.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet)
+[![Visual Studio Marketplace installs](https://vsmarketplacebadge.apphb.com/installs/gluons.vscode-atom-javascript-snippet.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet)
 
 ⚛ Atom JavaScript Snippet for Visual Studio Code
 
