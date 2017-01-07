@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.3
+- Add changelog.
+- Fix incorrect description in Marketplace page.
+
 ## 0.0.2
 - Add Visual Studio Marketplace badges.
 
