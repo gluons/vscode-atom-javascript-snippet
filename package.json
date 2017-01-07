@@ -1,6 +1,6 @@
 {
   "name": "vscode-atom-javascript-snippet",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Atom JavaScript Snippet for Visual Studio Code",
   "icon": "assets/icon.png",
   "scripts": {
