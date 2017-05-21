@@ -1,5 +1,5 @@
 # Atom JavaScript Snippet
-[![license](https://img.shields.io/github/license/gluons/vscode-atom-javascript-snippet.svg?style=flat-square)](https://github.com/gluons/vscode-atom-javascript-snippet/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/gluons/vscode-atom-javascript-snippet.svg?style=flat-square)](https://github.com/gluons/vscode-atom-javascript-snippet/blob/master/LICENSE)
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/gluons.vscode-atom-javascript-snippet.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet)
 [![Visual Studio Marketplace installs](https://vsmarketplacebadge.apphb.com/installs/gluons.vscode-atom-javascript-snippet.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet)
 
@@ -9,7 +9,18 @@ The extension that provide [Atom](https://atom.io/) [JavaScript](https://github.
 
 This snippet is based on [atom/language-javascript](https://github.com/atom/language-javascript/blob/master/snippets/language-javascript.cson).
 
+## Recommended configurations
+
+To keep snippets to show on the top of suggestions for easy using, use this configuration.
+
+```json
+{
+	"editor.snippetSuggestions": "top"
+}
+```
+
 ## Snippets
+
 ### [`kf`] Object Method
 ```javascript
 methodName: function (attribute) {
@@ -34,6 +45,11 @@ ClassName.prototype.methodName = function () {
 do {
 	
 } while (true);
+```
+
+### [`tern`] condition ? true : false
+```javascript
+condition ? true : false
 ```
 
 ### [`if`] if
@@ -269,4 +285,9 @@ exports.functionName = function () {
 ### [`expmod`] export module
 ```javascript
 module.exports = name;
+```
+
+### [`ret`] return
+```javascript
+return ;
 ```

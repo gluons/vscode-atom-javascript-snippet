@@ -8,6 +8,8 @@
   },
   "displayName": "Atom JavaScript Snippet",
   "publisher": "gluons",
+  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
+  "license": "MIT",
   "engines": {
     "vscode": "^0.10.0"
   },
@@ -18,6 +20,23 @@
     "color": "#5FB57D",
     "theme": "dark"
   },
+  "badges": [
+    {
+      "description": "License",
+      "url": "https://img.shields.io/github/license/gluons/vscode-atom-javascript-snippet.svg?style=flat-square",
+      "href": "https://github.com/gluons/vscode-atom-javascript-snippet/blob/master/LICENSE"
+    },
+    {
+      "description": "Visual Studio Marketplace",
+      "url": "https://vsmarketplacebadge.apphb.com/version/gluons.vscode-atom-javascript-snippet.svg?style=flat-square",
+      "href": "https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet"
+    },
+    {
+      "description": "Visual Studio Marketplace installs",
+      "url": "https://vsmarketplacebadge.apphb.com/installs/gluons.vscode-atom-javascript-snippet.svg?style=flat-square",
+      "href": "https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet"
+    }
+  ],
   "contributes": {
     "snippets": [
       {
@@ -40,15 +59,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gluons/vscode-atom-javascript-snippet.git"
+    "url": "https://github.com/gluons/vscode-atom-javascript-snippet.git"
   },
   "keywords": [
     "atom",
     "javascript",
-    "snippet"
+    "snippet",
+    "snippets"
   ],
-  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gluons/vscode-atom-javascript-snippet/issues"
   },
