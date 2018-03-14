@@ -182,6 +182,11 @@ querySelectorAll('query')
 console.log();
 ```
 
+### [`dir`] dir
+```javascript
+console.dir();
+```
+
 ### [`warn`] warn
 ```javascript
 console.warn();
